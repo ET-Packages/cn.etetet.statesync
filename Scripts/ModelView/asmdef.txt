@@ -1,0 +1,10 @@
+{
+    "references": [
+        "ET.Core",
+        "Unity.Mathematics",
+        "ET.Loader",
+        "ET.Model",
+        "YooAsset",
+        "ET.UI"
+    ]
+}
