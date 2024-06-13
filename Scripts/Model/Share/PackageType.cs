@@ -1,4 +1,4 @@
-﻿namespace ET
+namespace ET
 {
     public static partial class PackageType
     {

@@ -108,20 +108,6 @@ message M2C_Stop // IMessage
 	Unity.Mathematics.quaternion Rotation = 4;
 }
 
-// ResponseType G2C_Ping
-message C2G_Ping // ISessionRequest
-{
-	int32 RpcId = 1;
-}
-
-message G2C_Ping // ISessionResponse
-{
-	int32 RpcId = 1;
-	int32 Error = 2;
-	string Message = 3;
-	int64 Time = 4;
-}
-
 
 message G2C_Test // ISessionMessage
 {
@@ -142,39 +128,7 @@ message M2C_Reload // ISessionResponse
 	string Message = 3;
 }
 
-// ResponseType R2C_Login
-message C2R_Login // ISessionRequest
-{
-	int32 RpcId = 1;
-	string  Account = 2;  // 帐号
-	string  Password = 3;  // 密码
-}
 
-message R2C_Login // ISessionResponse
-{
-	int32 RpcId = 1;
-	int32 Error = 2;
-	string Message = 3;
-	string Address = 4;
-	int64 Key = 5;
-	int64 GateId = 6;
-}
-
-// ResponseType G2C_LoginGate
-message C2G_LoginGate // ISessionRequest
-{
-	int32 RpcId = 1;
-	int64 Key = 2;  // 帐号
-	int64 GateId = 3;
-}
-
-message G2C_LoginGate // ISessionResponse
-{
-	int32 RpcId = 1;
-	int32 Error = 2;
-	string Message = 3;
-	int64 PlayerId = 4;
-}
 
 message G2C_TestHotfixMessage // ISessionMessage
 {
