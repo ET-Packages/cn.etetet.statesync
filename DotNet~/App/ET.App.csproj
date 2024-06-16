@@ -32,6 +32,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\cn.etetet.statesync\DotNet~\Model\ET.Model.csproj" />
+    <ProjectReference Include="..\Model\ET.Model.csproj" />
   </ItemGroup>
 </Project>
