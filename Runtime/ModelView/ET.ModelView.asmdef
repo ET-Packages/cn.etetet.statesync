@@ -7,8 +7,8 @@
         "ET.Loader",
         "ET.Model",
         "YooAsset",
-        "ET.UI",
         "ET.Init",
+        "ET.UI",
         "ET.ReferenceCollector"
     ],
     "includePlatforms": [

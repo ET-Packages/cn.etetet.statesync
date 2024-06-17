@@ -10,10 +10,10 @@
         "ET.Hotfix",
         "ET.ModelView",
         "YooAsset",
+        "ET.Init",
         "ET.YooAssets",
         "ET.UI",
-        "ET.ReferenceCollector",
-        "ET.Init"
+        "ET.ReferenceCollector"
     ],
     "includePlatforms": [
         "Editor"
