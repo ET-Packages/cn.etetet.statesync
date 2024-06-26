@@ -61,6 +61,7 @@ namespace ET.Client
             
         private static async ETTask Test2(this OperaComponent self)
         {
+            ETCancellationToken oldCancellationToken = await ETTaskHelper.GetContextAsync<ETCancellationToken>();
             Log.Debug($"Croutine 2 start2");
             using (await self.Root().GetComponent<CoroutineLockComponent>().Wait(1, 20000, 3000))
             {
