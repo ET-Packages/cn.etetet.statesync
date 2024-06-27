@@ -49,6 +49,7 @@
         <ProjectReference Include="..\..\..\cn.etetet.loader\DotNet~\Loader\ET.Loader.csproj" />
         <ProjectReference Include="..\..\..\cn.etetet.mathematics\DotNet~\ET.Mathematics.csproj" />
         <ProjectReference Include="..\..\..\cn.etetet.recast\DotNet~\ET.Recast.csproj" />
+        <ProjectReference Include="..\..\..\cn.etetet.sourcegenerator\DotNet~\ET.SourceGeneratorAttribute\ET.SourceGeneratorAttribute.csproj" />
     </ItemGroup>
 
     <!-- sourcegenerator use -->
