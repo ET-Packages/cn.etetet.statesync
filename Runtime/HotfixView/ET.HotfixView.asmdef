@@ -11,10 +11,10 @@
         "ET.ModelView",
         "YooAsset",
         "ET.SourceGeneratorAttribute",
-        "ET.Init",
         "ET.YooAssets",
         "ET.UI",
-        "ET.ReferenceCollector"
+        "ET.ReferenceCollector",
+        "ET.Init"
     ],
     "includePlatforms": [
         "Editor"

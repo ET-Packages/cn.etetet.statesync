@@ -7,8 +7,8 @@
         "MemoryPack",
         "ET.Model",
         "ET.SourceGeneratorAttribute",
-        "ET.Recast",
-        "ET.Loader"
+        "ET.Loader",
+        "ET.Recast"
     ],
     "includePlatforms": [
         "Editor"
