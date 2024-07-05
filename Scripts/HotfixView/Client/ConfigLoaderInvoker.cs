@@ -44,11 +44,11 @@ namespace ET
                     string configFilePath;
                     if (startConfigs.Contains(configType.Name))
                     {
-                        configFilePath = $"{ConstValue.ExcelPackagePath}/Bytes/{ct}/{Options.Instance.StartConfig}/{configType.Name}.bytes";    
+                        configFilePath = $"{ConstValue.ExcelPackagePath}/Config/Bytes/{ct}/{Options.Instance.StartConfig}/{configType.Name}.bytes";    
                     }
                     else
                     {
-                        configFilePath = $"{ConstValue.ExcelPackagePath}/Bytes/{ct}/{configType.Name}.bytes";
+                        configFilePath = $"{ConstValue.ExcelPackagePath}/Config/Bytes/{ct}/{configType.Name}.bytes";
                     }
                     output[configType] = File.ReadAllBytes(configFilePath);
                 }
@@ -57,7 +57,7 @@ namespace ET
             {
                 foreach (Type type in configTypes)
                 {
-                    TextAsset v = await ResourcesComponent.Instance.LoadAssetAsync<TextAsset>($"{ConstValue.ExcelPackagePath}/Bytes/c/{type.Name}.bytes");
+                    TextAsset v = await ResourcesComponent.Instance.LoadAssetAsync<TextAsset>($"{ConstValue.ExcelPackagePath}/Config/Bytes/c/{type.Name}.bytes");
                     output[type] = v.bytes;
                 }
             }
@@ -101,11 +101,11 @@ namespace ET
             string configFilePath;
             if (startConfigs.Contains(configName))
             {
-                configFilePath = $"{ConstValue.ExcelPackagePath}/Bytes/{ct}/{Options.Instance.StartConfig}/{configName}.bytes";    
+                configFilePath = $"{ConstValue.ExcelPackagePath}/Config/Bytes/{ct}/{Options.Instance.StartConfig}/{configName}.bytes";    
             }
             else
             {
-                configFilePath = $"{ConstValue.ExcelPackagePath}/Bytes/{ct}/{configName}.bytes";
+                configFilePath = $"{ConstValue.ExcelPackagePath}/Config/Bytes/{ct}/{configName}.bytes";
             }
 
             await ETTask.CompletedTask;
