@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -26,7 +26,7 @@
     "cn.etetet.http": "0.0.1",
     "cn.etetet.recast": "0.0.1",
     "cn.etetet.numeric": "0.0.2",
-    "cn.etetet.move": "0.0.1",
+    "cn.etetet.move": "0.0.2",
     "cn.etetet.watcher": "0.0.1",
     "cn.etetet.db": "0.0.1",
     "cn.etetet.aoi": "0.0.1",
