@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.actorlocation": "0.0.5",
+    "cn.etetet.actorlocation": "0.0.6",
     "cn.etetet.core": "0.0.13",
     "cn.etetet.yooassets": "0.0.2",
     "cn.etetet.loader": "0.0.8",
@@ -34,7 +34,9 @@
     "cn.etetet.referencecollector": "0.0.1",
     "cn.etetet.login": "0.0.1",
     "cn.etetet.netinner": "0.0.2",
-    "cn.etetet.hybridclr": "0.0.1"
+    "cn.etetet.hybridclr": "0.0.1",
+    "cn.etetet.excel": "0.0.5",
+    "cn.etetet.proto": "0.0.4"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
