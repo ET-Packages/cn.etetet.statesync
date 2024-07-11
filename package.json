@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -17,7 +17,7 @@
     "cn.etetet.actorlocation": "0.0.6",
     "cn.etetet.core": "0.0.14",
     "cn.etetet.yooassets": "0.0.2",
-    "cn.etetet.loader": "0.0.9",
+    "cn.etetet.loader": "0.0.10",
     "cn.etetet.demores": "0.0.1",
     "cn.etetet.mathematics": "0.0.1",
     "cn.etetet.router": "0.0.1",
