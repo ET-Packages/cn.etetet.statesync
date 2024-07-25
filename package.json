@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -14,6 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
+    "cn.etetet.packagemanager": "0.0.3",
     "cn.etetet.actorlocation": "0.0.7",
     "cn.etetet.core": "0.0.15",
     "cn.etetet.yooassets": "0.0.2",
