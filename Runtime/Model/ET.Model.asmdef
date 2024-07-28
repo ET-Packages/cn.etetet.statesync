@@ -3,9 +3,9 @@
     "rootNamespace": "ET",
     "references": [
         "ET.Core",
+        "ET.MemoryPack",
         "ET.Recast",
         "ET.SourceGeneratorAttribute",
-        "MemoryPack",
         "Unity.Mathematics"
     ],
     "includePlatforms": [
