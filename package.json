@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -34,7 +34,7 @@
     "cn.etetet.ui": "0.0.2",
     "cn.etetet.referencecollector": "0.0.1",
     "cn.etetet.login": "0.0.1",
-    "cn.etetet.netinner": "0.0.2",
+    "cn.etetet.netinner": "0.0.3",
     "cn.etetet.hybridclr": "0.0.1",
     "cn.etetet.excel": "0.0.5",
     "cn.etetet.proto": "0.0.6"
