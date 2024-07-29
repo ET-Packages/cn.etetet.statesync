@@ -3,14 +3,13 @@
     "rootNamespace": "ET",
     "references": [
         "ET.Core",
-        "ET.Init",
         "ET.Loader",
         "ET.Model",
         "ET.ReferenceCollector",
         "ET.SourceGeneratorAttribute",
         "ET.UI",
         "Unity.Mathematics",
-        "YooAsset"
+        "ET.YooAssets"
     ],
     "includePlatforms": [
         "Editor"
@@ -24,8 +23,5 @@
         "INITED"
     ],
     "versionDefines": [],
-    "noEngineReferences": false,
-    "optionalUnityReferences": [],
-    "additionalReferences": [],
-    "compilerOptions": ""
+    "noEngineReferences": false
 }
