@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.40",
+  "version": "0.0.41",
   "unity": "2022.3",
   "description": "et statesync",
   "author": {
@@ -14,10 +14,10 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.packagemanager": "0.0.4",
+    "cn.etetet.packagemanager": "0.0.5",
     "cn.etetet.actorlocation": "0.0.7",
     "cn.etetet.core": "0.0.16",
-    "cn.etetet.loader": "0.0.16",
+    "cn.etetet.loader": "0.0.18",
     "cn.etetet.demores": "0.0.1",
     "cn.etetet.mathematics": "0.0.1",
     "cn.etetet.router": "0.0.1",
