@@ -1,6 +1,6 @@
 <linker>
-    <assembly fullname="Unity.Core" preserve="all"/>
-    <assembly fullname="Unity.Loader" preserve="all"/>
+    <assembly fullname="ET.Core" preserve="all"/>
+    <assembly fullname="ET.Loader" preserve="all"/>
     <assembly fullname="UnityEngine" preserve="all"/>
     <assembly fullname="System" preserve="all"/>
     <assembly fullname="MongoDB.Bson" preserve="all"/>
