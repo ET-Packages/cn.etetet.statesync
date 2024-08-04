@@ -39,6 +39,10 @@
             <Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
         </Compile>
 
+        <Compile Include="$(SolutionDir)Packages\cn.etetet.*\Scripts\Model\Client\**\*.cs">
+            <Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
+        </Compile>
+
         <Compile Include="$(SolutionDir)Packages\cn.etetet.*\CodeMode\Model\Server\**\*.cs">
             <Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
         </Compile>
