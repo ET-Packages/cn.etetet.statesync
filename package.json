@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "unity": "2022.3",
   "description": "状态同步demo",
   "author": {
@@ -15,7 +15,7 @@
   "relatedPackages": {},
   "dependencies": {
     "cn.etetet.packagemanager": "0.0.17",
-    "cn.etetet.actorlocation": "0.0.11",
+    "cn.etetet.actorlocation": "0.0.12",
     "cn.etetet.core": "0.1.1",
     "cn.etetet.loader": "0.0.22",
     "cn.etetet.demores": "0.0.2",
@@ -33,9 +33,9 @@
     "cn.etetet.ui": "0.0.5",
     "cn.etetet.referencecollector": "0.0.5",
     "cn.etetet.login": "0.0.4",
-    "cn.etetet.netinner": "0.0.7",
+    "cn.etetet.netinner": "0.0.8",
     "cn.etetet.hybridclr": "6.7.1",
-    "cn.etetet.excel": "0.0.6",
+    "cn.etetet.excel": "0.0.7",
     "cn.etetet.proto": "0.0.9",
     "cn.etetet.ai": "0.0.2"
   },
