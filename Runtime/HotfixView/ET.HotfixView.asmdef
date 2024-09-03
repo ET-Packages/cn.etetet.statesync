@@ -4,6 +4,7 @@
     "references": [
         "ET.Core",
         "ET.Hotfix",
+        "ET.Init",
         "ET.Loader",
         "ET.MemoryPack",
         "ET.Model",
@@ -12,19 +13,22 @@
         "ET.SourceGeneratorAttribute",
         "ET.UI",
         "ET.YooAssets",
-        "Unity.Mathematics"
+        "Unity.Mathematics",
+        "YooAsset"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "INITED"
+        "INITED",
+        "IS_COMPILING || UNITY_EDITOR"
     ],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": false,
+    "optionalUnityReferences": [],
+    "additionalReferences": [],
+    "compilerOptions": ""
 }

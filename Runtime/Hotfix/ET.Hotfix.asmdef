@@ -10,16 +10,15 @@
         "ET.SourceGeneratorAttribute",
         "Unity.Mathematics"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "INITED"
+        "INITED",
+        "IS_COMPILING || UNITY_EDITOR"
     ],
     "versionDefines": [],
     "noEngineReferences": true,
