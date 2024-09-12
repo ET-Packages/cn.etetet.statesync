@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2022.3",
   "description": "状态同步demo",
   "author": {
@@ -28,7 +28,6 @@
     "cn.etetet.numeric": "1.0.0",
     "cn.etetet.move": "1.0.0",
     "cn.etetet.watcher": "1.0.0",
-    "cn.etetet.db": "1.0.0",
     "cn.etetet.aoi": "1.0.0",
     "cn.etetet.ui": "1.0.0",
     "cn.etetet.referencecollector": "1.0.0",
