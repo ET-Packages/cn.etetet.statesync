@@ -7,7 +7,6 @@
     "Unity.Mathematics",
     "ET.Loader",
     "ET.Model",
-    "YooAsset",
     "ET.UI",
     "ET.Init"
   ],
@@ -26,7 +25,6 @@
     "ET.Hotfix",
     "ET.ModelView",
     "ET.YooAssets",
-    "YooAsset",
     "ET.UI",
     "ET.ReferenceCollector",
     "ET.Init"
