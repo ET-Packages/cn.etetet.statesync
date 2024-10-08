@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "unity": "2022.3",
   "description": "状态同步demo",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.packagemanager": "0.0.20",
+    "cn.etetet.packagemanager": "1.0.0",
     "cn.etetet.actorlocation": "2.0.1",
     "cn.etetet.core": "2.0.7",
     "cn.etetet.loader": "2.0.6",
