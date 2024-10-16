@@ -26,6 +26,11 @@ namespace ET.Client
                 }
             }
             
+            if (Input.GetKeyDown(KeyCode.R))
+            {
+                CodeLoader.Instance.Reload();
+            }
+            
             if (Input.GetKeyDown(KeyCode.Q))
             {
                 self.Test1().NoContext();
