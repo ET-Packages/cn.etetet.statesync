@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "unity": "2022.3",
   "description": "状态同步demo",
   "author": {
@@ -36,7 +36,8 @@
     "cn.etetet.hybridclr": "6.7.1",
     "cn.etetet.excel": "2.0.0",
     "cn.etetet.proto": "2.0.1",
-    "cn.etetet.ai": "2.0.1"
+    "cn.etetet.ai": "2.0.1",
+    "cn.etetet.sourcegenerator": "0.0.7"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
