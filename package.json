@@ -1,9 +1,9 @@
-﻿{
+{
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "unity": "2022.3",
-  "description": "状态同步demo",
+  "description": "statesync demo",
   "author": {
     "name": "tanghai",
     "url": "https://github.com/egametang/ET"
@@ -37,7 +37,9 @@
     "cn.etetet.excel": "3.0.0",
     "cn.etetet.proto": "3.0.0",
     "cn.etetet.ai": "3.0.0",
-    "cn.etetet.sourcegenerator": "3.0.0"
+    "cn.etetet.sourcegenerator": "3.0.0",
+    "cn.etetet.yooassets": "2.1.4",
+    "cn.etetet.memorypack": "1.10.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
