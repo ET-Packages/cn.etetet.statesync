@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "unity": "2022.3",
   "description": "statesync demo",
   "author": {
@@ -39,7 +39,8 @@
     "cn.etetet.ai": "3.0.0",
     "cn.etetet.sourcegenerator": "3.0.0",
     "cn.etetet.yooassets": "2.1.4",
-    "cn.etetet.memorypack": "1.10.0"
+    "cn.etetet.memorypack": "1.10.0",
+    "cn.etetet.startconfig": "3.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ET-Packages"
