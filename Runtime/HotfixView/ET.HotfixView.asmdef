@@ -13,8 +13,7 @@
         "ET.SourceGeneratorAttribute",
         "ET.UI",
         "ET.YooAssets",
-        "Unity.Mathematics",
-        "YooAsset"
+        "Unity.Mathematics"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
