@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "unity": "2022.3",
   "description": "statesync demo",
   "author": {
@@ -17,7 +17,7 @@
     "cn.etetet.packagemanager": "1.0.0",
     "cn.etetet.actorlocation": "3.0.0",
     "cn.etetet.core": "3.0.3",
-    "cn.etetet.loader": "3.0.0",
+    "cn.etetet.loader": "3.0.1",
     "cn.etetet.demores": "3.0.0",
     "cn.etetet.mathematics": "0.0.2",
     "cn.etetet.router": "3.0.0",
@@ -35,11 +35,11 @@
     "cn.etetet.netinner": "3.0.0",
     "cn.etetet.hybridclr": "7.8.0",
     "cn.etetet.excel": "3.0.0",
-    "cn.etetet.proto": "3.0.1",
+    "cn.etetet.proto": "3.0.2",
     "cn.etetet.ai": "3.0.0",
-    "cn.etetet.sourcegenerator": "3.0.0",
-    "cn.etetet.yooassets": "2.1.4",
-    "cn.etetet.memorypack": "1.10.0",
+    "cn.etetet.sourcegenerator": "3.0.1",
+    "cn.etetet.yooassets": "2.1.5",
+    "cn.etetet.memorypack": "1.10.1",
     "cn.etetet.startconfig": "3.0.0"
   },
   "publishConfig": {
