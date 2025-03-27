@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "unity": "2022.3",
   "description": "statesync demo",
   "author": {
@@ -38,7 +38,7 @@
     "cn.etetet.proto": "3.0.2",
     "cn.etetet.ai": "3.0.0",
     "cn.etetet.sourcegenerator": "3.0.1",
-    "cn.etetet.yooassets": "2.1.5",
+    "cn.etetet.yooassets": "2.3.6",
     "cn.etetet.memorypack": "1.10.1",
     "cn.etetet.startconfig": "3.0.0"
   },
