@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.statesync",
   "displayName": "ET.StateSync",
-  "version": "3.0.11",
+  "version": "3.0.12",
   "unity": "2022.3",
   "description": "statesync demo",
   "author": {
@@ -20,7 +20,7 @@
     "cn.etetet.loader": "3.0.1",
     "cn.etetet.demores": "3.0.0",
     "cn.etetet.mathematics": "0.0.2",
-    "cn.etetet.router": "3.0.0",
+    "cn.etetet.router": "3.0.1",
     "cn.etetet.console": "3.0.0",
     "cn.etetet.unit": "3.0.0",
     "cn.etetet.http": "3.0.0",
